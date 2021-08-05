@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570831197508",
+    "project_id": "feedhub-cb480",
+    "storage_bucket": "feedhub-cb480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570831197508:android:ae678bbad5b5186d593311",
+        "android_client_info": {
+          "package_name": "com.feedhubin.feedhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570831197508-09it3jr4ml6e2c730tvlea485g42j9d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feedhubin.feedhub",
+            "certificate_hash": "d1305b658390ae858cac44074b14c5aafa2bcf7c"
+          }
+        },
+        {
+          "client_id": "570831197508-p4p69kh2su6jn33ln20mk8to9ekdp9n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgmZMcLvOD95b12K7STB0HBOJma-IQUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570831197508-p4p69kh2su6jn33ln20mk8to9ekdp9n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
